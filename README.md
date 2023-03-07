@@ -1,3 +1,22 @@
+#Metaversus
+
+View the website here:
+https://metaversus.layerlabs.io
+</br>
+</br>
+
+## Introduction
+
+Welcome to Metaversus! Here, you can explore a vast array of virtual worlds that offer unique and immersive experiences. Each world is distinct, with its own set of rules, challenges, and opportunities.
+
+Metaversus was built primarly using Framer Motion as the front-end framework for the website. Here you can see beautiful animated designs capturing the users attention from beginning to end. This application is built using both modern React and Next.js frameworks.
+
+## Website Images
+
+<img width="1309" alt="Screen Shot 2023-03-07 at 4 03 02 PM" src="https://user-images.githubusercontent.com/100976172/223556864-5edf5591-c39e-4dde-80c9-42190939ce61.png">
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
